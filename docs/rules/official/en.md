@@ -1,35 +1,25 @@
 # DXRP Official Rules
 Please read through these rules carefully to ensure a fun and safe experience for everyone. Breaking rules will lead to warnings, kicks, or even bans.
 
-## 🔷 Basic Rules
+### 🔹 RDM/RDA (Random Death Match / Random Arrest)
+- You cannot kill or arrest someone without a proper roleplay reason.
+- You cannot kill or arrest someone based on a previous life’s memories (See NLR).
+- Make your intents clear and there will be less chances of confusion.
+- Political prisoners can always be killed with no repercussions (This does not apply to normal prisoners).
 
-### 🔹 RDM / RDA (Random Death Match / Random Arrest)
+	
+	
 
-- You cannot kill or arrest someone without proper roleplay reason
-- You cannot kill or arrest someone based on a previous life
-- **Political prisoners** can be killed when outside their cell, no reason is necessary
-  - This does not apply to normal prisoners
-
-### 🔹 NLR (New Life Rule)
-
-- New life rules apply on death, job change, and release after arrest (unless you escape)
-- You may retain memories from your past life, but not act upon them to kill, arrest, or make someone wanted
-- You can return to a raid after death (see the Raid section for details)
-
-### 🔹 Building / Prop Usage
-
-- You cannot build unreachable bases
-- You cannot block off parts of the map that don't belong to you
-- You cannot put valuables/entities more than 2 fading doors deep from the outside
-- You cannot use props to reach any part of someone's base
-- Your base must not require crouching or jumping
-- Fading doors must be reasonably easy to find
-- Bases must be raidable with a crowbar
+### 🔹NLR (New Life Rule)
+- You do NOT have to forget your past life, but you cannot act upon it to kill or arrest.
+- NLR applies on death, job change, and on release from prison 
+		- Prison escape does not apply
+- Raids have specific rules that take priority over these rules, see Raiding rules for more details.
 
 ### 🔹 Common Sense
 
 - FearRP is not enforced. You can pull a gun on someone mugging you at your own risk
-- Hate speech and harassment are not tolerated
+- You cannot disconnect or change jobs during an RP situation
 - In situations not stated in the rules, a staff member will make the final decision
 
 ---
@@ -44,23 +34,12 @@ Please read through these rules carefully to ensure a fun and safe experience fo
 
 ---
 
-## ⚠️ Detailed Rules
-
-The sections below provide comprehensive information on specific aspects of gameplay.
-
----
 
 ### 🔷 Behavior
 
-#### Roleplay Conduct
-
-- You cannot disconnect or change jobs during an RP situation
 - **Hate Speech is not tolerated** (hate based on religion, sexuality, identity, race, etc.)
 - Inappropriate content (sexual/graphic) is punished if reported
 - Alt accounts are allowed only for legitimate secondary characters; using them to evade punishment or gain an advantage is prohibited and will lead to a **PERMANENT BAN**
-
-#### Non-Roleplay Conduct
-
 - **No minimodding.** If someone breaks a rule, report it and move on
   - If you cause trouble by repeatedly telling people you are reporting them, you will be punished
 - No impersonating other players or staff
@@ -69,41 +48,42 @@ The sections below provide comprehensive information on specific aspects of game
 - Usage of game commands to gain an advantage is against the rules
 - Threats or attempts to crash, DDoS, or lag the server will result in a permanent ban
 - Any form of encouraging illegal activities will be severely punished
-- Saying you will break a rule is the same as breaking it
+- Threatening or hinting at breaking a rule is the same as breaking it
 
 ---
 
 ### 🔷 Building
 
-- Houses require a minimum of 1 entrance. You can block off doors that you don't use
-- Bases must always be accessible without the need to place props or entities
-- Every part of a base must be reachable by a raider, even if nothing is in that area
-- Builds should not take an unnecessary amount of public space. If you build in public areas, be reasonable
-- If you can shoot at someone, they must be able to see you and shoot back at you
-- You may not force players to crouch or jump at any point in your base, even to fight back
-- Bases cannot be built in a way that will cause players to get stuck permanently in any part of it
-- Bases may not have mazes built within to artificially extend the raid duration
-- Bases may not purposefully impede player movement (such as placing props too close to each other to slow down players)
-- Reaching a base's entrance should not rely on luck / a glitch / an exploit
-- The entrance of a base must be reasonably easy to find
-  - It should be big enough to be noticeable, and stand out in some way (color, different prop from surroundings, etc.)
-- You cannot block off map features (weed drop off, trash cans, ATMs). They must always be clearly accessible
-  - You must always be able to walk over the entire weed drop off. No props can be placed in a way that would affect player movement over it
-- Only purchase doors to buildings and rooms you will actually use
-- If your base can harm other players, make sure that it has reasonable counterplay that does not rely on luck
-- All bases should be raidable with a crowbar; you cannot make players rely on finding a code
+- Buildings must always be accessible without requiring to place props or entities.
+- Every base must have a minimum of 1 entrance.
+- You cannot block off parts of the map that you don’t use, map features (weed drop points, trash cans, recycler, ATMs) or use excessive amounts of space.  
+- Your base cannot require the use of crouching or jumping at ANY point to navigate the base.
+- Fading doors must be easily distinguishable from the rest of the base, and easy to find.
+- No Blackout bases (Making all props the same color to confuse raiders) or Maze bases (artificially extended or convoluted paths)
+- If you are able to shoot at someone, they must be able to see you and shoot back at you.
+- Your base cannot contain traps that will cause players to remain stuck.
+- Your base cannot affect player movement (placing props close to each other to slow down players).
+- Reaching and navigating a base cannot rely on luck/glitches/exploits.
+- Weed drop offs must always be fully accessible.
+- Players must always be able to walk over the entire weed drop off. No props can be placed in a way that would affect player movement over it
+- Only purchase doors you will actually use. (No buying doors and not using the building)
+- All bases must be raidable with a crowbar. (No relying on codes)
+- No part of a base can be accessible only to the base owner. If a room exists, it must be raidable.
+  <br>
+<Details>
+<Summary> 🔶 Fading Doors</Summary>  
+  
+- Fading doors must always have enough space between them for a player to comfortably stand (this also applies when placing one close to a normal door).
+- If a fading door is accessible from one direction by someone, it must be accessible to all (through breaching or an easy to find button).
+- Fading doors have multiple utilities, and so there is a maximum amount of every kind that you can have.
+  - Fading doors accessible from both sides that raiders must prybar to be able to get through: **2 maximum** (**3 if your base has no normal door**)
+  - Fading doors that everyone can access from either side at any time (public fading door): **5 maximum**
+  - Fading doors that cannot be walked through, but are used to contain valuables: **2 maximum**
+  - Fadin doors used as shooting slits: **2 maximum**
+  - Fading doors used as an emergency exit (accessible only from one side): **1 maximum**
 
----
+</Details>
 
-### 🔷 Fading Doors
-
-- A maximum of 2 fading doors can be used as doors per base (this includes any door used to reach valuables or any part of the base)
-  - You cannot hide valuables behind multiple fading doors, even if individually they would only require a raider to break 2 fading doors
-- Fading doors used for other purposes do not count towards that limit. These fading doors cannot give an unfair advantage
-  - Other purposes can be an emergency exit (a door that can only be used from one direction), peep holes (fading door that can be toggled to shoot through), etc.
-  - If a door can be broken through from the outside, it is not an emergency exit, and counts as a normal door
-- Always leave enough space between 2 doors (both fading and normal) to be able to comfortably stand
-- Fading doors must be reasonably easy to see and distinguish from walls
 
 ---
 
@@ -115,54 +95,67 @@ The sections below provide comprehensive information on specific aspects of game
 - You cannot place, move, or remove props if involved in an RP situation
 
 ---
+### 🔷 Wire
+
+- Wire is a privilege, and so be mindful not to abuse it, or it will be taken away from you.
+- You cannot use speakers to annoy or deafen players.
+- You cannot use wire to make it unreasonably hard to raid a base, be reasonable.
+
+---
 
 ### 🔷 Job-Specific Rules
 
 #### 👑 Mayor
 
 - You cannot base outside of PD
-- You can build outside of PD only for governmental reasons (such as checkpoints)
-- You cannot make laws that contradict rules (example: making RDM a good thing)
-- You cannot make laws targeting individuals
+- You can build outside of PD only for governmental reasons (such as checkpoints), with a maximum of 2 outside builds.
+- You cannot make laws that contradict rules (Example: making RDM a good thing)
+- You cannot make laws targeting individuals or groups (Making thieves KOS, making shark hats illegal)
 - Laws must be within reason
 - On major law changes, announce it to the population before enforcing it
 - Lockdowns are for arresting people outside; prop houses count as being indoors
 
 #### 👮 Police
 
-- You cannot base outside of PD
-- You can build outside of PD only for governmental reasons (such as checkpoints)
-- You must follow hierarchy when possible (Mayor > Chief > Officer)
-- Lockdowns are for arresting people outside; prop houses count as being indoors
-- Mutinies are allowed
-- Corruption is allowed
-- Arrests can only be done on people breaking laws; you cannot be bribed into arresting an innocent
+- You cannot base outside of PD.
+- You can build outside of PD only for governmental reasons (such as checkpoints).
+- You must follow hierarchy when possible (Mayor > Chief > Officer). Raiding without a superior's permission is not allowed.
+- Lockdowns are for arresting people outside; prop houses count as being indoors.
+- Corruption is **NOT** allowed. You cannot give your friends a pass but arrest others.
+- Arrests can only be done on people breaking laws; you cannot be bribed into arresting an innocent.
 
 #### 💼 Gun Dealers
 
-- You must have an intent to provide the services assigned to your job
-- One group cannot have a monopoly on this job
+- You must have an intent to provide the services assigned to your job.
+- One group cannot have a monopoly on this job.
 
 #### ⚕️ Medic
 
-- One group cannot have a monopoly on this job
-- You cannot base with another medic
+- One group cannot have a monopoly on this job.
+- You cannot base with another medic.
 
 ---
 
 ### 🔷 Raiding
 
-- Raiding the same base has a **⏰ 10 minute cooldown**. This cooldown applies only once the raid ends
-- Raids are initiated when a pry bar is used on a door, or when a raider enters a house uninvited
-- If you die during a raid as a **defender**, you can return to it no matter what
+- Raiding the same base has a **⏰ 10 minute cooldown**. This cooldown applies only once the raid ends.
+- A raid begins when a player starts using a crowbar on a door, refuses to leave the property when asked, walks past a KOS sign uninvited, or shoots a base owner.
+- If you die during a raid as a **defender**, you can return to it no matter what.
 - If you die during a raid as a **raider**, you can return to it if someone is still alive raiding the base
-- If no raider is left inside a base, the raid ends. This applies even if the raider walks out for a few seconds
-- Cops cannot stealth raid unless they have proper proof something illegal is happening. You must announce yourself
-- As soon as a raid is initiated, no prop may be placed, moved, added, or deleted by both parties until it is over
-- Do not disconnect during or right before a raid. You must wait for a raid to end before quitting
-- Third parties are allowed to join the raid on either side, or against both, as long as they have an RP reason to do so
+- A raider that leaves a raid for any reason cannot return to it (Going out from any door counts as leaving a raid).
+- If no raider is left inside a base, the raid ends. This applies even if the raider walks out for a few seconds.
+- As soon as a raid is initiated, no prop may be placed, moved, added, or deleted by both parties until it is over.
+- Do not disconnect during or right before a raid. You must wait for a raid to end before quitting.
+- Third parties are allowed to join the raid on either side, or against both, as long as they have an RP reason to do so.
 - The only entity allowed to be used to reach a base you're raiding or planning to raid is the **entity ladder**
   - **The prop ladder does not count**
+
+#### Cop specific rules
+- Officers must ask their superior (if possible) for permission to raid. The chain of command goes: Mayor > Chief > Officer. Raiding without a superior’s permission is against the rules.
+- The police department cannot raid a base for no reason, they must have suspicion of criminal activity.
+  - If no concrete proof is known, officers must announce themselves to the homeowners, and try their best to communicate with them on their intent. (Hearing printers is NOT enough, you need to see illegal activity)
+	- If there is concrete proof of criminal activity, officers do not have to announce themselves and can raid normally.
+
 
 ---
 
@@ -188,9 +181,9 @@ The sections below provide comprehensive information on specific aspects of game
 
 ---
 
-### 🔷 Minging
+### 🔷 Griefing
 
-**Minging is not allowed.** Actions that fall under this category include:
+**Griefing is not allowed.** Actions that fall under this category include:
 
 - Baiting RDM / RDA
 - Repeated text / mic spam
